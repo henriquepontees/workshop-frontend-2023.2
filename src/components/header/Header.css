@@ -29,6 +29,7 @@ nav ul {
     border: 3.5px solid #fcdf2b;
     border-radius: 11px; 
     background-color: black;
+    position: inherit;
     
   }
   
