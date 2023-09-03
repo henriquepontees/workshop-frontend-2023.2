@@ -1,0 +1,25 @@
+.slick-next:before{
+    position: relative;
+    left: -600px;
+    bottom: -100px;
+}
+
+.slick-prev::before{
+    position: relative;
+    left: -10px;
+    bottom: -100px;
+}
+
+.carousel-container {
+position: relative;
+left: 80px;
+margin-right: 400px;
+margin-top: -200px;
+top: 150px;
+  }
+
+.carousel-container img{
+    height: 400px;
+    margin-top: 200px;
+
+}

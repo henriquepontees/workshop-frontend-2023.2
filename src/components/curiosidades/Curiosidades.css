@@ -1,0 +1,43 @@
+.sectionC{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: flex-start;
+    font-size: 0.5rem;
+    position: relative;
+    bottom: -130px;
+
+}
+
+.h1C{
+    font-size: 2.5rem;
+    color: white;
+}
+
+.pC{
+    font-size: 1.2rem;
+    color: white;
+}
+
+.divImgC{
+    display: flex;
+    flex-direction: column;
+}
+
+.imagemC{
+    height: 400px;
+    position: relative;
+    top: -398px;
+    left: 650px;
+    border: 5px solid #FFFFFF;
+    border-radius: 8px;
+    border: 2px solid transparent;
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    width: auto;
+}
+
+.imagemC:hover {
+    box-shadow: 0 0 20px rgba(255, 255, 255);
+}

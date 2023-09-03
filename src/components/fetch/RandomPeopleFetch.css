@@ -1,0 +1,60 @@
+.divRPF {
+    text-align: center;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    height: 500px;
+    background-color: black;
+    position: relative;
+    box-shadow: 0 10px 50px red;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    margin-left: 650px;
+    padding: 30px;
+    text-align: center;
+    top: -350px;
+  }
+
+  .divPRF:hover{
+
+    box-shadow: 0 0 20px rgba(255, 255, 255);
+}
+  
+
+  button:hover {
+    background-color: black;
+  }
+  
+  
+.pRPF {
+    font-size: 15px;
+    border: 2px solid red;
+    width: fit-content;  
+    padding: 5px;
+    height: fit-content;
+    position: relative;
+    box-shadow: 0 10px 50px red;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    top: -165px;
+    text-align: center;
+
+  }
+
+.buttonRPF{
+  display: flex;
+  padding: 25px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  font-size: 20;
+  position: relative;
+  top: -280px;
+  box-shadow: 0 10px 50px blue;
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 4px;
+  background-color: black;
+  text-align: center;
+  left: -300px;
+}
